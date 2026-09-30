@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class evenLoop{
+public class OddNumbersLoop {
 
   public static void main(String[] args){
      
